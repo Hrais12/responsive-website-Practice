@@ -38,6 +38,7 @@
     }
     .pic1Container, .pic2Container {
        display: block !important;
+       text-align: center;
        
         
     }
